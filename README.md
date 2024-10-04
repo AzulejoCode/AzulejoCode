@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @AzulejoCode 🐦
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 👋 Hi, I’m @AzulejoCode 🐦
 
-# 🚀 Mi Portafolio de Proyectos y Cursos
-
-¡Bienvenido a mi GitHub! Aquí encontrarás los proyectos y ejercicios que estoy desarrollando mientras aprendo diferentes tecnologías como **Rust**, **Dart**, **Flutter**, **JavaScript**, **HTML**, y **CSS**. 
+¡Bienvenido a mi GitHub! 
+Aquí encontrarás los proyectos y ejercicios que estoy desarrollando mientras aprendo diferentes tecnologías como **Rust**, **Dart**, **Flutter**, **JavaScript**, **HTML**, y **CSS**. 
 A continuación, encontrarás una lista organizada por lenguaje y curso.
 
 ---
